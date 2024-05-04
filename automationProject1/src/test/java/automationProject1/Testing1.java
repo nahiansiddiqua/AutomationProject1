@@ -41,6 +41,4 @@ public class Testing1 {
 	      System.out.println(ActualUrl);
 	      Assert.assertEquals(ActualUrl, ExpectedUrl, "URL Matched");
 			
-	}
-	
-}
+	}}
