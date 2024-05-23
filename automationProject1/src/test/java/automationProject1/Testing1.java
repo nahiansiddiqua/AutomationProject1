@@ -79,7 +79,7 @@ public class Testing1 {
 	    String actualText = element.getText();
 	    
 	    String expectedText = "Remove";
-	    
+	
 	    Assert.assertEquals(actualText, expectedText, "Button text match expected value.");
 	}
 
