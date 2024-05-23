@@ -5,8 +5,7 @@
     <classes>
       <class name="automationProject1.Testing1">
         <methods>
-          <include name="TestURL"/>
-          <include name="TestTittle"/>
+          <include name="addItemToCart"/>
           <include name="init"/>
         </methods>
       </class> <!-- automationProject1.Testing1 -->

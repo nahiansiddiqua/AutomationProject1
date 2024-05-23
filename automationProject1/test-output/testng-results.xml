@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-04T14:47:33 BDT" name="Default suite" finished-at="2024-05-04T14:47:37 BDT" duration-ms="4381">
+  <suite started-at="2024-05-23T11:39:22 BDT" name="Default suite" finished-at="2024-05-23T11:39:29 BDT" duration-ms="7061">
     <groups>
     </groups>
-    <test started-at="2024-05-04T14:47:33 BDT" name="Default test" finished-at="2024-05-04T14:47:37 BDT" duration-ms="4381">
+    <test started-at="2024-05-23T11:39:22 BDT" name="Default test" finished-at="2024-05-23T11:39:29 BDT" duration-ms="7061">
       <class name="automationProject1.Testing1">
-        <test-method is-config="true" signature="init()[pri:0, instance:automationProject1.Testing1@f78a47e]" started-at="2024-05-04T14:47:33 BDT" name="init" finished-at="2024-05-04T14:47:37 BDT" duration-ms="4178" status="PASS">
+        <test-method is-config="true" signature="init()[pri:0, instance:automationProject1.Testing1@1ed4ae0f]" started-at="2024-05-23T11:39:22 BDT" name="init" finished-at="2024-05-23T11:39:28 BDT" duration-ms="5664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method signature="TestTittle()[pri:0, instance:automationProject1.Testing1@f78a47e]" started-at="2024-05-04T14:47:37 BDT" name="TestTittle" finished-at="2024-05-04T14:47:37 BDT" duration-ms="26" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestTittle -->
-        <test-method signature="TestURL()[pri:0, instance:automationProject1.Testing1@f78a47e]" started-at="2024-05-04T14:47:37 BDT" name="TestURL" finished-at="2024-05-04T14:47:37 BDT" duration-ms="17" status="PASS">
+        <test-method signature="TestURL()[pri:1, instance:automationProject1.Testing1@1ed4ae0f]" started-at="2024-05-23T11:39:28 BDT" name="TestURL" finished-at="2024-05-23T11:39:28 BDT" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestURL -->
+        <test-method signature="TestTittle()[pri:2, instance:automationProject1.Testing1@1ed4ae0f]" started-at="2024-05-23T11:39:28 BDT" name="TestTittle" finished-at="2024-05-23T11:39:28 BDT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTittle -->
+        <test-method signature="testUserNameAndPassword()[pri:3, instance:automationProject1.Testing1@1ed4ae0f]" started-at="2024-05-23T11:39:28 BDT" name="testUserNameAndPassword" finished-at="2024-05-23T11:39:29 BDT" duration-ms="710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserNameAndPassword -->
+        <test-method signature="addItemToCart()[pri:4, instance:automationProject1.Testing1@1ed4ae0f]" started-at="2024-05-23T11:39:29 BDT" name="addItemToCart" finished-at="2024-05-23T11:39:29 BDT" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItemToCart -->
+        <test-method signature="clickOnInventoryItem()[pri:4, instance:automationProject1.Testing1@1ed4ae0f]" started-at="2024-05-23T11:39:29 BDT" name="clickOnInventoryItem" finished-at="2024-05-23T11:39:29 BDT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnInventoryItem -->
       </class> <!-- automationProject1.Testing1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
